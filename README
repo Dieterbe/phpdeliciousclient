@@ -1,0 +1,21 @@
+===== PhpDeliciousClient =====
+
+	v0.5
+
+== CONTENTS ==
+
+	PhpDeliciousClient: main program
+	PhpDelicious: 3rd party library to access the delicious api
+
+== LICENSE ==
+
+	PhpDeliciousClient:
+	 	Copyright (c) 2007, Dieter Plaetinck.
+	 	Licensed under the GPL v2.  See LICENSE
+
+	PhpDelicious:
+	 	Copyright (C) 2005-2006, Edward Eliot.
+	 	Licensed under the BSD License. See php-delicious/readme.txt
+
+== DOCUMENTATION ==
+	Call "pdclient.php --help" or see http://dieter.plaetinck.be/php_delicious_client
